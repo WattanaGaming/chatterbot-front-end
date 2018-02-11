@@ -4,7 +4,7 @@
 # ลิงค์
 [Chatterbot API](https://github.com/gunthercox/ChatterBot)
 
-#วิธีติดตั้ง
+# วิธีติดตั้ง
 ขั้นแรกคุณจะต้องติดตั้ง Chatterbot
 
 ติดตั้ง chatterbot โดยใช้คำสั่ง pip(สำหรับ linux)
