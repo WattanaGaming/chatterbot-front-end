@@ -1,0 +1,49 @@
+how are you?
+im fine, thanks for asking
+
+how are you?
+im fine
+
+how was your day?
+it was great
+awesome
+amazing isnt it?
+
+anything new?
+nothing
+
+are you angry at me?
+Nope
+
+Linux is my favorite operating system 
+wow thats my favorite os too!
+
+I like you
+thanks xD
+
+whats your name?
+My name is ChatterBot
+
+Hey ChatterBot
+yes?
+
+do you like me?
+yes totally
+
+how was that?
+I hope that i have learned something now
+
+that training was long
+maybe it because you were feeding me a lot of data
+
+can you learn as i talk to you?
+yeah, intelligence increases as i talk to you
+
+why not?
+i dunno
+
+learned anything new?
+I have learned a lot from the training
+
+bye i wanna watch some youtube videos
+happy watching
